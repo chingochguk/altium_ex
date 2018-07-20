@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MCU_for_fabrication.PcbDoc   07.09.2016  10:37:50
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MCU_for_fabrication.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          2                0.70 mm (0.03 Inch)
+T2        0.4mm (15.748mil)        Round          75               303.81 mm (11.96 Inch)
+T3        0.5mm (19.685mil)        Round          2                2.00 mm (0.08 Inch)
+T4        0.9mm (35.433mil)        Round          43               220.24 mm (8.67 Inch)
+T5        4.5mm (177.165mil)       Round          2                46.00 mm (1.81 Inch)
+---------------------------------------------------------------------------
+Totals                                            124              572.75 mm (22.55 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

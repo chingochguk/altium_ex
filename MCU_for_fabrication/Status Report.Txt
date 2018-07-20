@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[MCU_for_fabrication.TXT]
+   Generated File[MCU_for_fabrication.LDP]
+   Generated File[MCU_for_fabrication.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:37:50 On 07.09.2016
